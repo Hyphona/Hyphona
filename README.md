@@ -1,6 +1,6 @@
 # Hello world!
 > 📚 Born to learn & code
-### Spoked languages
+### Languages spoken
 - [x] Python
 - [x] PHP
 - [x] Java
