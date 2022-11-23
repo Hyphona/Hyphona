@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alexis</h1>
+<h1 align="center">Hello world!</h1>
 
-- 📚 I'm born to learn & code
+I'm **Alexis**, a passionate developer from France! I'm born to learn & code.
 
-- 🔭 I’m currently working on **Minecript** & **Insomnia**
+Actually working on **Minecript** & **Insomnia**, two awesome Minecraft Bedrock servers! Beside I'm learning C and plan to pass the 42 school "piscine" by July.
 
-- 🌱 I’m currently learning **C**
+PS: My girlfriend drew my profile pic, I love it (her) ❤️
 
 <h2 align="center">My skills</h2>
 
