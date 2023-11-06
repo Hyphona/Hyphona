@@ -1,8 +1,8 @@
 <h1 align="center">Hello world!</h1>
 
-I'm **Alexis**, a passionate developer from France! I'm born to learn & code.
+I'm **Alexis**, a passionate 42 Student from France! I'm born to learn & code.
 
-Actually working on **Minecript** & **Insomnia**, two awesome Minecraft Bedrock servers! Beside I'm learning C and plan to pass the 42 school "piscine" by July.
+Actually working on **Minecript** & **Insomnia**, two awesome Minecraft Bedrock servers!
 
 PS: My girlfriend drew my profile pic, I love it (her) ❤️
 
