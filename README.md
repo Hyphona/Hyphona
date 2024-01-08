@@ -4,8 +4,6 @@ I'm **Alexis**, a passionate student from 42 programmimg school in France! I'm b
 
 Actually working on **Minecript** & **Insomnia**, two awesome Minecraft Bedrock servers!
 
-PS: My girlfriend drew my profile pic, I love it (her) ❤️
-
 <h2 align="center">My skills</h2>
 
 <h3 align="center">Languages</h3>
