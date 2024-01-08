@@ -2,8 +2,6 @@
 
 I'm **Alexis**, a passionate student from 42 programmimg school in France! I'm born to learn & code.
 
-Actually working on **Minecript** & **Insomnia**, two awesome Minecraft Bedrock servers!
-
 <h2 align="center">My skills</h2>
 
 <h3 align="center">Languages</h3>
