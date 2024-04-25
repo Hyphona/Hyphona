@@ -1,6 +1,6 @@
 <h1 align="center">Hello world!</h1>
 
-I'm **Alexis**, a passionate student from 42 programmimg school in France! I'm born to learn & code.
+I'm **Alexis**, a passionate student from 42 programmimg school in France!
 
 <h2 align="center">My skills</h2>
 
