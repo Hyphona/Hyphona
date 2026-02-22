@@ -18,18 +18,9 @@
 
 ###
 
-<p align="left">I'm Alexis, I studied at 42 & I'm now in ❤️ with C</p>
+I'm **Alexis**, I studied at 42 & I'm now in 💙 with C
 
-###
+Currently working on:
+  - 🕹️ [Zen Engine](https://github.com/Hyphona/Zen-Engine), a game engine wrote in C (wish me luck)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hyphona/Hyphona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hyphona/Hyphona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hyphona/Hyphona/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<p align="left">PS: I know how to exit VIM</p>
-
-###
+##### PS: I know how to exit VIM 👀
